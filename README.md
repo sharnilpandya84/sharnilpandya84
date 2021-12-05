@@ -10,9 +10,6 @@
 <br>
 &nbsp;<b>Publons: <a href = "https://publons.com/researcher/2950302/sharnil-pandya/" ></b>
 
-Anyone can also contact me via 
-&nbsp;<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/gmail.png" width = 20><img> : santosh.saxena.official@gmail.com
-
 ## :wrench: Job Responsiblities
 
     I am currently an Associate Professor at the Department of Computer Science, Symbiosis International University, India. I am extremely interested in obtaining a position where I can contribute to its focus on engineering education, continue my research on acoustic and sound, assistive technologies,  wearable and non-wearable sensing for healthcare and monitoring, Data Analytics for healthcare/ Security monitoring and forecasting, Lifestyle pattern modeling, Machine learning for decision-making and lead campus-related professional service activities, and computer vision. My ten years of research and teaching experience working as an Associate Professor and Assistant Professor prepare me to be an effective researcher and instructor in your department. My doctoral dissertation was conducted in the area of Wireless Sensor Network under Prof. K. H. Wandra and examined the application of a relatively new wireless protocol to design a secure centralized and clustered wireless sensor network.  During my Ph. D. research endeavor, I have developed my skills in heterogeneous wearable and non-wearable sensors based on wireless Communications and network designing. I have learned the skills of big-data handling, developing data mining and machine learning algorithms to extract decision-making information, followed by using the internet of things (IOT).
@@ -45,20 +42,8 @@ At Symbiosis Centre for Applied Artificial Intelligence, I have carried out rese
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
 
-For More Details refer my resume <a href = "https://github.com/SAXENA-SANTOSH/Resume">click here for resume</a>
+For More Details refer my resume <a href = "https://github.com/sharnilpandya84/Resume/blob/main/SharnilPandyaCV%20(13).pdf">click here for resume</a>
   
-  ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAXENA-SANTOSH&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="40%"/>
-</a>
-<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAXENA-SANTOSH&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Santosh's GitHub Stats" width="56%" />
-</a>
-
-
-
-<br>
-<br>
 
 
 

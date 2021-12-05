@@ -1,13 +1,13 @@
 
 # Greetings Respected viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
 
-This is ***Santosh Saxena*** and I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud, and DevOps*** to achieve a level of ***Full-Stack Data Science***. I live in Pune, India. Anyone can find me on :
-Anyone can find me on :
-
+**Dr Sharnil Pandya is an Associate Professor at Computer Science and AIML dept, at Symbiosis Institute of Technology, and research Faculty at Symbiosis Centre for Applied AI(SCAAI). His research interests include Smart Sensing, Ambient Healthcare Systems, Acoustics and Sound, and Computer Vision. He has received “Young Scientist Award” in 2021 in International Scientist Summit 2021, and “Best Teacher” and “Distinguished Facilitator” Award by Infosys Ltd. Furthermore, he has also worked on two national-level funded projects: Defence Research and Development Organization(DRDO), India, and Department of Science & Technology(DST), worth 16 and 10 lacs, NVIDIA GPU Research Centre project, and has published 6 patents.  
+     He has guided/guided numerous national/international undergraduate, post-graduate and PhD students from computer engineering and other disciplines. In addition to academics and research, he is also a reviewer for reputed journals such as IEEE Transactions on Industrial Electronics, IEEE Internet of Things, IEEE Sensors journal, Advanced Engineering Informatics, Elsevier, Transactions on Emerging Telecommunications Technologies, and JBHI.
+**
 &nbsp;<a href = "linkedin.com/in/santosh-saxena" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Linkedin.png" height="20"><img></a>
-&nbsp;<a href = "https://scholar.google.com/citations?user=WifMgUgAAAAJ&hl=en" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/google_scholar.png" height="20"><img></a>
-&nbsp;<a href = "https://www.instagram.com/santosh_saxena_60/" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Instagram.jpeg" height="20"><img></a>
-&nbsp;<a href = "https://www.facebook.com/profile.php?id=100025724718686" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Facebook%20.png" height="20"><img></a>
+&nbsp;Google Scholar: <a href = "https://scholar.google.co.in/citations?user=v5214jUAAAAJ&hl=en" >
+&nbsp;**Research Gate**: <a href = "https://www.researchgate.net/profile/Sharnil_Pandya3" >
+&nbsp;Publons: <a href = "https://publons.com/researcher/2950302/sharnil-pandya/" >
 
 Anyone can also contact me via 
 &nbsp;<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/gmail.png" width = 20><img> : santosh.saxena.official@gmail.com

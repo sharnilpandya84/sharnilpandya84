@@ -4,11 +4,11 @@
 <b>Dr Sharnil Pandya is an Associate Professor at Computer Science and AIML dept, at Symbiosis Institute of Technology, and research Faculty at Symbiosis Centre for Applied AI(SCAAI). His research interests include Smart Sensing, Ambient Healthcare Systems, Acoustics and Sound, and Computer Vision. He has received “Young Scientist Award” in 2021 in International Scientist Summit 2021, and “Best Teacher” and “Distinguished Facilitator” Award by Infosys Ltd. Furthermore, he has also worked on two national-level funded projects: Defence Research and Development Organization(DRDO), India, and Department of Science & Technology(DST), worth 16 and 10 lacs, NVIDIA GPU Research Centre project, and has published 6 patents.  
      He has guided/guided numerous national/international undergraduate, post-graduate and PhD students from computer engineering and other disciplines. In addition to academics and research, he is also a reviewer for reputed journals such as IEEE Transactions on Industrial Electronics, IEEE Internet of Things, IEEE Sensors journal, Advanced Engineering Informatics, Elsevier, Transactions on Emerging Telecommunications Technologies, and JBHI.</b>
 <br>
-&nbsp;Google Scholar: <a href = "https://scholar.google.co.in/citations?user=v5214jUAAAAJ&hl=en" >
+&nbsp;<b>Google Scholar: <a href = "https://scholar.google.co.in/citations?user=v5214jUAAAAJ&hl=en" ></b>
 <br>
-&nbsp;**Research Gate**: <a href = "https://www.researchgate.net/profile/Sharnil_Pandya3" >
+&nbsp;<b>Research Gate: <a href = "https://www.researchgate.net/profile/Sharnil_Pandya3" ></b>
 <br>
-&nbsp;Publons: <a href = "https://publons.com/researcher/2950302/sharnil-pandya/" >
+&nbsp;<b>Publons: <a href = "https://publons.com/researcher/2950302/sharnil-pandya/" ></b>
 
 Anyone can also contact me via 
 &nbsp;<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/gmail.png" width = 20><img> : santosh.saxena.official@gmail.com

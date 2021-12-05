@@ -35,6 +35,14 @@
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
+     
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/sharnilpandya84/sharnilpandya84">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharnilpandya84&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="40%"/>
+</a>
+<a href="https://github.com/sharnilpandya84/sharnilpandya84">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharnilpandya84&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Santosh's GitHub Stats" width="56%" />
+</a>
 
 For More Details refer my resume <a href = "https://github.com/sharnilpandya84/Resume/blob/main/SharnilPandyaCV%20(13).pdf">click here for resume</a>
   

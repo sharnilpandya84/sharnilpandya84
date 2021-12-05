@@ -5,10 +5,10 @@
 <br>
      
 <p><a href="https://scholar.google.co.in/citations?user=v5214jUAAAAJ&hl=en">
-<img src="https://github.com/sharnilpandya84/Resume/blob/main/googlescholar.png" alt="https://scholar.google.co.in/citations?user=v5214jUAAAAJ&hl=en" width="300" height="200">
+<img src="https://github.com/sharnilpandya84/Resume/blob/main/googlescholar.png" alt="https://scholar.google.co.in/citations?user=v5214jUAAAAJ&hl=en" width="200" height="150">
 </a>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Sharnil_Pandya3">
-<img src="https://github.com/sharnilpandya84/Resume/blob/main/ResearchGate.jpg" alt="https://www.researchgate.net/profile/Sharnil_Pandya3" width="300" height="200"></a>&nbsp;&nbsp;<a href="https://publons.com/researcher/2950302/sharnil-pandya/">
-<img src="https://github.com/sharnilpandya84/Resume/blob/main/Publons_logo.png" alt="https://publons.com/researcher/2950302/sharnil-pandya/" width="300" height="200"></p>     
+<img src="https://github.com/sharnilpandya84/Resume/blob/main/ResearchGate.jpg" alt="https://www.researchgate.net/profile/Sharnil_Pandya3" width="200" height="150"></a>&nbsp;&nbsp;<a href="https://publons.com/researcher/2950302/sharnil-pandya/">
+<img src="https://github.com/sharnilpandya84/Resume/blob/main/Publons_logo.png" alt="https://publons.com/researcher/2950302/sharnil-pandya/" width="200" height="150"></p>     
 
 
 

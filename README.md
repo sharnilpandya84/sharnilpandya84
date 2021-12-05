@@ -17,13 +17,12 @@
 
 | Skill | Technologies worked on | 
 |:--|:------------|
-| Programming | Python,Scala, C , C++ , Java |
+| Programming | Python, C , C++ , Java |
 | DataBase | SQL, Sqlite |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
 | Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
-| Big Data | Hadoop , Spark |
 | Cloud | Basic AWS |
 | Operating System | MacOs, Windows |
 | Hardware | Tesla T4 from google colab |

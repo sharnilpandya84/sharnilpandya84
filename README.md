@@ -10,11 +10,6 @@
 <img src="https://github.com/sharnilpandya84/Resume/blob/main/ResearchGate.jpg" alt="https://www.researchgate.net/profile/Sharnil_Pandya3" width="200" height="150"></a>&nbsp;&nbsp;<a href="https://publons.com/researcher/2950302/sharnil-pandya/">
 <img src="https://github.com/sharnilpandya84/Resume/blob/main/Publons_logo.png" alt="https://publons.com/researcher/2950302/sharnil-pandya/" width="200" height="150"></p>     
 
-
-
-
-     &nbsp;<b> <a href = "https://publons.com/researcher/2950302/sharnil-pandya/" >Publons Profile</a></b>
-
 | Skill | Technologies worked on | 
 |:--|:------------|
 | Programming | Python, C , C++ , Java |

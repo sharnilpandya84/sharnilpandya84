@@ -1,5 +1,3 @@
-<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Data%20Science.jpeg" height = 300 width = 100%><img>
-
 
 # Greetings Respected viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
 
